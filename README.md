@@ -9,6 +9,6 @@ This data set contains customer level information for a telecom company. Various
 ### Inspiration
 Some possible insights could be -
 
-> What variables are contributing to customer churn?
-> Who are the customers more likely to churn?
-> What actions can be taken to stop them from leaving?
+> * What variables are contributing to customer churn?
+> * Who are the customers more likely to churn?
+> * What actions can be taken to stop them from leaving?
